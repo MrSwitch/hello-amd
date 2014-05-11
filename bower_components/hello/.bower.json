@@ -1,0 +1,33 @@
+{
+  "name": "hello",
+  "homepage": "http://adodson.com/hello.js/",
+  "license": "https://github.com/MrSwitch/hello.js/blob/master/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:MrSwitch/hello.js.git"
+  },
+  "main": [
+    "dist/hello.all.min.js"
+  ],
+  "ignore": [
+    "tests",
+    "demos",
+    "assets",
+    "ui",
+    "*.html",
+    "package.json"
+  ],
+  "devDependencies": {
+    "require-sync": "*"
+  },
+  "_release": "418b450030",
+  "_resolution": {
+    "type": "branch",
+    "branch": "feature-amd",
+    "commit": "418b45003069c61a81c7e93c2c8549958ecf5a34"
+  },
+  "_source": "git://github.com/MrSwitch/hello.js.git",
+  "_target": "feature-amd",
+  "_originalSource": "hello",
+  "_direct": true
+}

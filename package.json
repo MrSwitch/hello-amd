@@ -1,0 +1,21 @@
+{
+  "name": "hellojs-amd",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "requirejs": "^2.1.11"
+  },
+  "devDependencies": {
+    "grunt-text-replace": "^0.3.11",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt": "^0.4.4",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "amdclean": "^1.5.0"
+  }
+}
